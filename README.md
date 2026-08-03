@@ -10,7 +10,7 @@
 <br/><br/>
 
 <!-- Animated Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=950&height=140&lines=J.A.R.V.I.S+%2F%2F+AI+CORE;NEURAL+INTERFACE+ONLINE;ACCESS+GRANTED" alt="J.A.R.V.I.S Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=950&height=140&lines=J.A.R.V.I.S+%2F%2F+STUDENT+CORE;CS+UNDERGRAD+ONLINE;ACCESS+GRANTED" alt="J.A.R.V.I.S Title"/>
 
 <br/>
 
@@ -43,8 +43,8 @@
 
 <br/><br/>
 
-<!-- ANIMATED BOOT SEQUENCE (Replaces static Bash) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FFD5&vCenter=true&multiline=true&width=800&height=220&lines=%5B00%3A00.001%5D++J.A.R.V.I.S+System+Bootstrap+Initiated...;%5B00%3A00.187%5D++Loading+Neural+Memory+Banks...+%E2%9C%93;%5B00%3A00.412%5D++Calibrating+Cognitive+Engines...+%E2%9C%93;%5B00%3A00.689%5D++Injecting+LLM+Knowledge+Graphs...+%E2%9C%93;%5B00%3A01.201%5D++Bypassing+Mainframe+Security...+%E2%9C%93;%5B00%3A01.478%5D++Holographic+HUD+Online...+%E2%9C%93;%5B00%3A01.999%5D++SYSTEM+READY.+AWAITING+OPERATOR+INPUT." alt="Boot Sequence"/>
+<!-- ANIMATED BOOT SEQUENCE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FFD5&vCenter=true&multiline=true&width=800&height=220&lines=%5B00%3A00.001%5D++J.A.R.V.I.S+Intern+Bootstrap+Initiated...;%5B00%3A00.187%5D++Loading+Academic+Databases...+%E2%9C%93;%5B00%3A00.412%5D++Calibrating+Learning+Engines...+%E2%9C%93;%5B00%3A00.689%5D++Injecting+Internship+Logs...+%E2%9C%93;%5B00%3A01.201%5D++Compiling+Future+Trajectories...+%E2%9C%93;%5B00%3A01.478%5D++Holographic+HUD+Online...+%E2%9C%93;%5B00%3A01.999%5D++SYSTEM+READY.+AWAITING+OPERATOR+INPUT." alt="Boot Sequence"/>
 
 <br/>
 
@@ -60,26 +60,26 @@
     <td width="60%" align="left">
       
 ```python
-class Developer:
+class StudentDeveloper:
     def __init__(self):
         self.name       = "Pratyush Anand"
-        self.role       = "AI Engineer | Backend Dev"
-        self.education  = "B.E. CS — BITS Pilani ('23–'27)"
+        self.role       = "CS Undergrad | Aspiring AI Engineer"
+        self.university = "BITS Pilani"
+        self.grad_year  = 2027
         
         self.experience = [
-            "Software Engineer Intern @ FourKites ('25)",
-            "Automated invoice processing pipelines",
-            "AI pipeline optimization & cloud integration"
+            "SWE Intern @ FourKites (2025)",
+            "Building foundational GenAI projects",
+            "Exploring Backend architecture & APIs"
         ]
         
-        self.stack = {
-            "Core":     ["Python", "FastAPI", "Docker", "AWS"],
-            "AI_ML":    ["LangChain", "Agentic AI", "RAG"],
-            "Database": ["Knowledge Graphs", "PostgreSQL"]
+        self.tech_stack = {
+            "Comfortable": ["Python", "C++", "FastAPI", "SQL"],
+            "Exploring":   ["LangChain", "Docker", "AWS", "RAG"]
         }
         
-        self.mission    = "Building intelligent software that reasons."
-        self.status     = "ONLINE // ACTIVE DEVELOPMENT"
+        self.mission    = "Bridging the gap between academic CS and real-world AI."
+        self.status     = "LEARNING MODE // COMPILING FUTURE"
 
-# Instantiating core identity...
-operator = Developer()
+# Instantiating student identity...
+operator = StudentDeveloper()

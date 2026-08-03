@@ -38,77 +38,48 @@
 
 <br/><br/>
 
-```diff
-+ ════════════════════════════════════════════════════════════════════════
-+   J.A.R.V.I.S // AI CORE   |   VERSION 4.7.0   |   STATUS: ONLINE
-+ ════════════════════════════════════════════════════════════════════════
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 
+<br/><br/>
 
+<!-- ANIMATED BOOT SEQUENCE (Replaces static Bash) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FFD5&vCenter=true&multiline=true&width=800&height=220&lines=%5B00%3A00.001%5D++J.A.R.V.I.S+System+Bootstrap+Initiated...;%5B00%3A00.187%5D++Loading+Neural+Memory+Banks...+%E2%9C%93;%5B00%3A00.412%5D++Calibrating+Cognitive+Engines...+%E2%9C%93;%5B00%3A00.689%5D++Injecting+LLM+Knowledge+Graphs...+%E2%9C%93;%5B00%3A01.201%5D++Bypassing+Mainframe+Security...+%E2%9C%93;%5B00%3A01.478%5D++Holographic+HUD+Online...+%E2%9C%93;%5B00%3A01.999%5D++SYSTEM+READY.+AWAITING+OPERATOR+INPUT." alt="Boot Sequence"/>
 
-◈ BOOT SEQUENCE ◈
+<br/>
 
-Bash┌──────────────────────────────────────────────────────────────────────────────────┐
-│  J.A.R.V.I.S AI CORE // BOOT LOADER v4.7.0                                       │
-│  ──────────────────────────────────────────────────────────────────────────────  │
-│                                                                                  │
-│  [00:00.001]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Initializing Core Systems...        ✓     │
-│  [00:00.187]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Loading Memory Banks...             ✓     │
-│  [00:00.412]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Loading Neural Engine...            ✓     │
-│  [00:00.689]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Loading AI Models...                ✓     │
-│  [00:00.934]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Loading Knowledge Graph...          ✓     │
-│  [00:01.201]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Loading Developer Profile...        ✓     │
-│  [00:01.478]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Establishing Neural Link...         ✓     │
-│  [00:01.712]  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  Calibrating Holographic HUD...      ✓     │
-│                                                                                  │
-│  ──────────────────────────────────────────────────────────────────────────────  │
-│  STATUS   →  ONLINE                                                              │
-│  MODE     →  FULL OPERATIONAL                                                    │
-│  ACCESS   →  GRANTED                                                             │
-│  CORE     →  STABLE                                                              │
-│  UPTIME   →  99.97%                                                              │
-└──────────────────────────────────────────────────────────────────────────────────┘
-diff+ SYSTEM READY
-+ AWAITING OPERATOR COMMAND...
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 
+<br/><br/>
 
-◈ DEVELOPER PROFILE ◈
+### ◈ DEVELOPER PROFILE ◈
 
-Pythonclass Developer:
+<!-- Split Layout: Code on the left, Animated Tech GIF on the right -->
+<table align="center" style="border: none;">
+  <tr>
+    <td width="60%" align="left">
+      
+```python
+class Developer:
     def __init__(self):
         self.name       = "Pratyush Anand"
-        self.role       = "AI Engineer | Backend Developer | Software Engineer"
-        self.education  = "B.E. Computer Science — BITS Pilani (2023 – 2027)"
+        self.role       = "AI Engineer | Backend Dev"
+        self.education  = "B.E. CS — BITS Pilani ('23–'27)"
+        
         self.experience = [
-            "Software Engineer Intern @ FourKites (2025)",
-            "Production-grade Generative AI applications",
-            "FastAPI • LangChain • AWS • Docker • Python",
+            "Software Engineer Intern @ FourKites ('25)",
             "Automated invoice processing pipelines",
             "AI pipeline optimization & cloud integration"
         ]
-        self.focus = [
-            "Agentic AI",
-            "Backend Engineering",
-            "LLM Applications",
-            "Retrieval-Augmented Generation (RAG)",
-            "Knowledge Graphs",
-            "Machine Learning",
-            "Cloud Computing",
-            "Distributed Systems"
-        ]
-        self.mission = "Building intelligent software that can reason, retrieve knowledge and solve real-world engineering problems using AI."
-        self.status  = "ONLINE // ACTIVE DEVELOPMENT"
-
-    def __repr__(self):
-        return f"<Developer: {self.name} | Status: {self.status}>"
+        
+        self.stack = {
+            "Core":     ["Python", "FastAPI", "Docker", "AWS"],
+            "AI_ML":    ["LangChain", "Agentic AI", "RAG"],
+            "Database": ["Knowledge Graphs", "PostgreSQL"]
+        }
+        
+        self.mission    = "Building intelligent software that reasons."
+        self.status     = "ONLINE // ACTIVE DEVELOPMENT"
 
 # Instantiating core identity...
 operator = Developer()
-print(operator)
-diff+ PROFILE LOADED SUCCESSFULLY
-+ IDENTITY VERIFIED
-+ CLEARANCE LEVEL: DEVELOPER
-
-
-diff+ ────────────────────────────────────────────────────────────────
-+   END OF SCENE 01  |  PROCEEDING TO MISSION CONTROL...
-+ ────────────────────────────────────────────────────────────────

@@ -1,0 +1,33 @@
+<svg width="600" height="260" viewBox="0 0 600 260" xmlns="http://www.w3.org/2000/svg" font-family="JetBrains Mono, monospace">
+  <rect width="600" height="260" fill="#050816"/>
+
+  <text x="10" y="25" font-size="13" fill="#00F7FF">Python</text>
+  <rect x="10" y="35" width="580" height="10" rx="5" fill="#0B1220"/>
+  <rect x="10" y="35" height="10" rx="5" fill="#00F7FF">
+    <animate attributeName="width" from="0" to="520" dur="1.8s" fill="freeze"/>
+  </rect>
+
+  <text x="10" y="70" font-size="13" fill="#009DFF">FastAPI / Backend</text>
+  <rect x="10" y="80" width="580" height="10" rx="5" fill="#0B1220"/>
+  <rect x="10" y="80" height="10" rx="5" fill="#009DFF">
+    <animate attributeName="width" from="0" to="470" dur="1.8s" begin="0.15s" fill="freeze"/>
+  </rect>
+
+  <text x="10" y="115" font-size="13" fill="#7C3AED">RAG / LLM Pipelines</text>
+  <rect x="10" y="125" width="580" height="10" rx="5" fill="#0B1220"/>
+  <rect x="10" y="125" height="10" rx="5" fill="#7C3AED">
+    <animate attributeName="width" from="0" to="490" dur="1.8s" begin="0.3s" fill="freeze"/>
+  </rect>
+
+  <text x="10" y="160" font-size="13" fill="#00F7FF">PyTorch / ML</text>
+  <rect x="10" y="170" width="580" height="10" rx="5" fill="#0B1220"/>
+  <rect x="10" y="170" height="10" rx="5" fill="#00F7FF">
+    <animate attributeName="width" from="0" to="430" dur="1.8s" begin="0.45s" fill="freeze"/>
+  </rect>
+
+  <text x="10" y="205" font-size="13" fill="#009DFF">Databases (PostgreSQL, Neo4j)</text>
+  <rect x="10" y="215" width="580" height="10" rx="5" fill="#0B1220"/>
+  <rect x="10" y="215" height="10" rx="5" fill="#009DFF">
+    <animate attributeName="width" from="0" to="410" dur="1.8s" begin="0.6s" fill="freeze"/>
+  </rect>
+</svg>

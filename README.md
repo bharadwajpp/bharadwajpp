@@ -2,15 +2,15 @@
 
 <img src="assets/banner-bg.png" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=PRATYUSH+ANAND;COMPUTER+SCIENCE+%C2%B7+BITS+PILANI" alt="Name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=PRATYUSH+ANAND;COMPUTER+SCIENCE+%C2%B7+BITS+PILANI" alt="Name"/>
 
-<img src="assets/core-pulse.svg" width="80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=600&color=009DFF&center=true&vCenter=true&width=650&lines=%3E+backend+engineering;%3E+applied+machine+learning;%3E+retrieval-augmented+systems;%3E+status%3A+online" alt="Boot"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=600&color=009DFF&center=true&vCenter=true&width=700&lines=%3E+backend+engineering;%3E+applied+machine+learning;%3E+retrieval-augmented+systems;%3E+status%3A+online" alt="Boot"/>
+<img src="assets/core-pulse.svg" width="60"/>
 
-<br><br>
+<br>
 
 [![Email](https://img.shields.io/badge/EMAIL-050816?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=0B1220)](mailto:f20230603@pilani.bits-pilani.ac.in)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=009DFF&labelColor=0B1220)](https://www.linkedin.com/in/pratyush-anand-600b36313)
@@ -20,7 +20,9 @@
 
 <br>
 
-<img src="assets/divider.png" width="100%"/>
+<div align="center">
+<img src="assets/divider.png" width="500"/>
+</div>
 
 ## `//` About
 
@@ -32,7 +34,9 @@ I care more about whether a system holds up under real constraints — memory li
 
 <br>
 
-<img src="assets/divider.png" width="100%"/>
+<div align="center">
+<img src="assets/divider.png" width="500"/>
+</div>
 
 ## `//` Experience
 
@@ -56,7 +60,9 @@ Built backend services for a generative AI pipeline that automated commercial in
 
 <br>
 
-<img src="assets/divider.png" width="100%"/>
+<div align="center">
+<img src="assets/divider.png" width="500"/>
+</div>
 
 ## `//` Projects
 
@@ -108,7 +114,9 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 
 <br>
 
-<img src="assets/divider.png" width="100%"/>
+<div align="center">
+<img src="assets/divider.png" width="500"/>
+</div>
 
 ## `//` Stack
 
@@ -129,7 +137,9 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 
 <br>
 
-<img src="assets/divider.png" width="100%"/>
+<div align="center">
+<img src="assets/divider.png" width="500"/>
+</div>
 
 ## `//` System Stats
 
@@ -144,7 +154,9 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 
 <br>
 
-<img src="assets/divider.png" width="100%"/>
+<div align="center">
+<img src="assets/divider.png" width="500"/>
+</div>
 
 <div align="center">
 

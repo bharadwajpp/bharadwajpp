@@ -1,1 +1,23 @@
-tgvv
+<svg width="600" height="90" viewBox="0 0 600 90" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="90" fill="#050816"/>
+  <text x="20" y="25" font-family="JetBrains Mono, monospace" font-size="14" fill="#00F7FF">
+    INITIALIZING SYSTEM
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+  </text>
+
+  <rect x="20" y="45" width="560" height="18" rx="3" fill="#0B1220" stroke="#009DFF" stroke-width="1"/>
+  <rect x="20" y="45" height="18" rx="3" fill="#00F7FF">
+    <animate attributeName="width" values="0;560;0" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="fill" values="#00F7FF;#009DFF;#7C3AED;#00F7FF" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="300" y="57" font-family="JetBrains Mono, monospace" font-size="11" fill="#050816" text-anchor="middle" font-weight="bold">
+    <animate attributeName="x" values="300" dur="4s" repeatCount="indefinite"/>
+    LOADING MODULES
+  </text>
+
+  <text x="20" y="82" font-family="JetBrains Mono, monospace" font-size="12" fill="#7C3AED">
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="4s" repeatCount="indefinite"/>
+    > compiling_experience.py — status: online
+  </text>
+</svg>

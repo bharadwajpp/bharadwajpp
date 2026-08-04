@@ -1,85 +1,89 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════
-     J.A.R.V.I.S // AI CORE — SCENE 01: SYSTEM INITIALIZATION
-     ═══════════════════════════════════════════════════════════════ -->
+# Pratyush Anand
 
-<!-- Hero GIF - Cyberpunk Holographic AI -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdqbG5xY2Z0eGZ0eGZ0eGZ0eGZ0eGZ0eGZ0eGZ0eGZ0eGZ0/l0HlHFRbscSpF0bE4/giphy.gif" width="100%" alt="J.A.R.V.I.S Holographic Core"/>
+**Computer Science '27 · BITS Pilani**
 
-<br/><br/>
+Backend & applied ML — currently focused on retrieval-augmented systems and diagnostic AI
 
-<!-- Animated Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=48&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=950&height=140&lines=J.A.R.V.I.S+%2F%2F+STUDENT+CORE;CS+UNDERGRAD+ONLINE;ACCESS+GRANTED" alt="J.A.R.V.I.S Title"/>
+[![Email](https://img.shields.io/badge/-f20230603%40pilani.bits--pilani.ac.in-333?style=flat-square&logo=gmail&logoColor=white)](mailto:f20230603@pilani.bits-pilani.ac.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-<br/>
+</div>
 
-<!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM+ACCESS+COUNT&color=00f7ff&style=for-the-badge" alt="Visitor Counter"/>
+<br>
 
-<br/><br/>
+## About
 
-<!-- Social Buttons -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=050816&labelColor=0E1629" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-7C3AED?style=for-the-badge&logo=linkedin&logoColor=F8FAFC&labelColor=0E1629" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-00FFD5?style=for-the-badge&logo=gmail&logoColor=050816&labelColor=0E1629" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://YOUR_PORTFOLIO">
-  <img src="https://img.shields.io/badge/PORTFOLIO-FF3D71?style=for-the-badge&logo=vercel&logoColor=F8FAFC&labelColor=0E1629" alt="Portfolio"/>
-</a>
+I build backend systems for AI pipelines — mostly retrieval, diagnostics, and the plumbing that makes LLMs useful in production rather than just impressive in a demo.
 
-<br/><br/>
+Last summer I worked on a generative AI pipeline at FourKites that automated commercial invoice extraction, going from manual process to something running in production. Since then I've been building my own systems: an EV fault-diagnosis platform combining vector search with a knowledge graph, a fine-tuned transformer for Hindi/Hinglish fake news detection, and a reinforcement learning agent for 3D navigation.
 
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+I care more about whether a system holds up under real constraints — memory limits, noisy data, ambiguous retrieval — than whether the demo looks good.
 
-<br/><br/>
+<br>
 
-<!-- ANIMATED BOOT SEQUENCE -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=1000&color=00FFD5&vCenter=true&multiline=true&width=800&height=220&lines=%5B00%3A00.001%5D++J.A.R.V.I.S+Intern+Bootstrap+Initiated...;%5B00%3A00.187%5D++Loading+Academic+Databases...+%E2%9C%93;%5B00%3A00.412%5D++Calibrating+Learning+Engines...+%E2%9C%93;%5B00%3A00.689%5D++Injecting+Internship+Logs...+%E2%9C%93;%5B00%3A01.201%5D++Compiling+Future+Trajectories...+%E2%9C%93;%5B00%3A01.478%5D++Holographic+HUD+Online...+%E2%9C%93;%5B00%3A01.999%5D++SYSTEM+READY.+AWAITING+OPERATOR+INPUT." alt="Boot Sequence"/>
+## Experience
 
-<br/>
+**Software Engineer Intern** — FourKites
+*Chennai, India · May 2025 – Jul 2025*
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+Built backend services for a generative AI pipeline that automated commercial invoice data extraction, using Python, FastAPI, LangChain, and AWS. Worked with senior AI engineers and PMs to onboard suppliers and ship feature enhancements. Contributed to RAG pipeline optimization — embeddings, transformer inference, prompt validation — and restructured AWS S3 storage and Pipedream workflows for better reliability. Shipped to production.
 
-<br/><br/>
+`Python` `FastAPI` `LangChain` `AWS` `RAG` `Transformers`
 
-### ◈ DEVELOPER PROFILE ◈
+<br>
 
-<!-- Split Layout: Code on the left, Animated Tech GIF on the right -->
-<table align="center" style="border: none;">
-  <tr>
-    <td width="60%" align="left">
-      
-```python
-class StudentDeveloper:
-    def __init__(self):
-        self.name       = "Pratyush Anand"
-        self.role       = "CS Undergrad | Aspiring AI Engineer"
-        self.university = "BITS Pilani"
-        self.grad_year  = 2027
-        
-        self.experience = [
-            "SWE Intern @ FourKites (2025)",
-            "Building foundational GenAI projects",
-            "Exploring Backend architecture & APIs"
-        ]
-        
-        self.tech_stack = {
-            "Comfortable": ["Python", "C++", "FastAPI", "SQL"],
-            "Exploring":   ["LangChain", "Docker", "AWS", "RAG"]
-        }
-        
-        self.mission    = "Bridging the gap between academic CS and real-world AI."
-        self.status     = "LEARNING MODE // COMPILING FUTURE"
+## Projects
 
-# Instantiating student identity...
-operator = StudentDeveloper()
+### EV Powertrain Fault Intelligence System
+AI-powered diagnostic platform combining vector search (PostgreSQL/pgvector) with knowledge graph queries (Neo4j) for EV fault diagnosis. Modular backend with separate services for retrieval, diagnosis, and automated report generation.
+
+`FastAPI` `Llama 3.2` `PostgreSQL` `pgvector` `Neo4j` `Docker`
+[→ Repository](https://github.com/YOUR_USERNAME/Ev-agentic-ai)
+
+### Multilingual Fact-Checking System
+Fine-tuned MuRIL on 3,277 Hindi/Hinglish news articles for fake news classification (76.4% accuracy). Built an automated pipeline using LLM-based translation, FAISS retrieval, and NLI for health claim verification — optimized to run inference on an 8GB GPU via sequential model loading.
+
+`Python` `Transformers` `FAISS` `NLI`
+[→ Repository](https://github.com/YOUR_USERNAME/Fact-check-ai)
+
+### Reinforcement Learning for 3D Navigation
+Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy exploration. Outperformed baseline navigation success rate; evaluated across multiple reward structures and transition dynamics.
+
+`Python` `Pandas` `NumPy`
+[→ Repository](https://github.com/YOUR_USERNAME/3D_Gridworld_Reinforcement_Learning)
+
+<br>
+
+## Stack
+
+**Languages:** Python, C
+**Backend:** FastAPI, LangChain
+**Data:** PostgreSQL, pgvector, Neo4j, Pandas, NumPy
+**ML:** PyTorch, Transformers, RAG pipelines
+**Tools:** Docker, Git, Jenkins, Postman
+
+<br>
+
+## GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" width="49%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true" width="98%" alt="Contribution Graph"/>
+</div>
+
+<br>
+
+## Contact
+
+Open to internships and roles in backend engineering, applied ML, and AI infrastructure.
+
+📫 **f20230603@pilani.bits-pilani.ac.in** · 📍 Pilani, Rajasthan, India
+
+</div>

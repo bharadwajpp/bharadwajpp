@@ -114,14 +114,14 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 
 <div align="center">
 
-![Docker](https://img.shields.io/badge/-Docker-0B1220?style=for-the-badge&logo=docker&logoColor=00F7FF)
-![Git](https://img.shields.io/badge/-Git-0B1220?style=for-the-badge&logo=git&logoColor=009DFF)
-![Jenkins](https://img.shields.io/badge/-Jenkins-0B1220?style=for-the-badge&logo=jenkins&logoColor=7C3AED)
-![Postman](https://img.shields.io/badge/-Postman-0B1220?style=for-the-badge&logo=postman&logoColor=00F7FF)
+![PyTorch](https://img.shields.io/badge/-PyTorch-0B1220?style=for-the-badge&logo=pytorch&logoColor=00F7FF)
+![Pandas](https://img.shields.io/badge/-Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=009DFF)
+![NumPy](https://img.shields.io/badge/-NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=7C3AED)
+![Git](https://img.shields.io/badge/-Git-0B1220?style=for-the-badge&logo=git&logoColor=00F7FF)
+![Jenkins](https://img.shields.io/badge/-Jenkins-0B1220?style=for-the-badge&logo=jenkins&logoColor=009DFF)
+![Postman](https://img.shields.io/badge/-Postman-0B1220?style=for-the-badge&logo=postman&logoColor=7C3AED)
 
 </div>
-
-<br>
 
 ## `//` System Stats
 

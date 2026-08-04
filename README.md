@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:009DFF,100:7C3AED&height=200&section=header&text=PRATYUSH%20ANAND&fontSize=42&fontColor=00F7FF&fontAlignY=40&desc=Computer%20Science%20%C2%B7%20BITS%20Pilani%20%C2%B7%20%2727&descAlignY=58&descColor=8ED0FF&animation=fadeIn" width="100%"/>
+<img src="assets/banner-bg.png" width="100%"/>
 
-<img src="assets/core-pulse.svg" width="90"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=36&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=PRATYUSH+ANAND;COMPUTER+SCIENCE+%C2%B7+BITS+PILANI" alt="Name"/>
+
+<img src="assets/core-pulse.svg" width="80"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+backend+engineering;%3E+applied+machine+learning;%3E+retrieval-augmented+systems;%3E+status%3A+online" alt="Boot"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=600&color=009DFF&center=true&vCenter=true&width=700&lines=%3E+backend+engineering;%3E+applied+machine+learning;%3E+retrieval-augmented+systems;%3E+status%3A+online" alt="Boot"/>
 
 <br><br>
 
@@ -18,7 +20,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:009DFF,100:7C3AED&height=3&width=1000" width="100%"/>
+<img src="assets/divider.png" width="100%"/>
 
 ## `//` About
 
@@ -30,7 +32,7 @@ I care more about whether a system holds up under real constraints — memory li
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:009DFF,100:7C3AED&height=3&width=1000" width="100%"/>
+<img src="assets/divider.png" width="100%"/>
 
 ## `//` Experience
 
@@ -54,7 +56,7 @@ Built backend services for a generative AI pipeline that automated commercial in
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:009DFF,100:7C3AED&height=3&width=1000" width="100%"/>
+<img src="assets/divider.png" width="100%"/>
 
 ## `//` Projects
 
@@ -106,7 +108,7 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:009DFF,100:7C3AED&height=3&width=1000" width="100%"/>
+<img src="assets/divider.png" width="100%"/>
 
 ## `//` Stack
 
@@ -127,7 +129,7 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,50:009DFF,100:7C3AED&height=3&width=1000" width="100%"/>
+<img src="assets/divider.png" width="100%"/>
 
 ## `//` System Stats
 
@@ -142,10 +144,18 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:009DFF,100:050816&height=150&section=footer&text=OPEN%20TO%20INTERNSHIPS%20%2F%2F%20BACKEND%20%C2%B7%20ML%20%C2%B7%20AI%20INFRA&fontSize=18&fontColor=00F7FF&fontAlignY=65" width="100%"/>
+<img src="assets/divider.png" width="100%"/>
 
 <div align="center">
+
+## `//` Contact
+
+Open to internships and roles in backend engineering, applied ML, and AI infrastructure.
+
+📫 **f20230603@pilani.bits-pilani.ac.in** · 📍 Pilani, Rajasthan, India
+
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=bharadwajpp&label=PROFILE+VIEWS&color=009DFF&style=for-the-badge&labelColor=0B1220" alt="Profile Views"/>
-</div>
 
 </div>

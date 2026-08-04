@@ -2,7 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:009DFF,100:7C3AED&height=200&section=header&text=PRATYUSH%20ANAND&fontSize=42&fontColor=00F7FF&fontAlignY=40&desc=Computer%20Science%20%C2%B7%20BITS%20Pilani%20%C2%B7%20%2727&descAlignY=58&descColor=8ED0FF&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineering+%2F%2F+Applied+ML;Retrieval-Augmented+Systems;Diagnostic+AI+Pipelines" alt="Typing SVG"/>
+<br>
+
+<img src="assets/loading-bar.svg" width="600"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=600&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+scanning_repositories...+%5B30%25%5D;%3E+indexing_projects...+%5B62%25%5D;%3E+parsing_stack.json...+%5B85%25%5D;%3E+system+ready+%5B100%25%5D" alt="Boot"/>
 
 <br><br>
 

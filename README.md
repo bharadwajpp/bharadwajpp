@@ -7,8 +7,8 @@
 Backend & applied ML — currently focused on retrieval-augmented systems and diagnostic AI
 
 [![Email](https://img.shields.io/badge/-f20230603%40pilani.bits--pilani.ac.in-333?style=flat-square&logo=gmail&logoColor=white)](mailto:f20230603@pilani.bits-pilani.ac.in)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-anand-600b36313)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bharadwajpp)
 
 </div>
 
@@ -41,19 +41,19 @@ Built backend services for a generative AI pipeline that automated commercial in
 AI-powered diagnostic platform combining vector search (PostgreSQL/pgvector) with knowledge graph queries (Neo4j) for EV fault diagnosis. Modular backend with separate services for retrieval, diagnosis, and automated report generation.
 
 `FastAPI` `Llama 3.2` `PostgreSQL` `pgvector` `Neo4j` `Docker`
-[→ Repository](https://github.com/YOUR_USERNAME/Ev-agentic-ai)
+[→ Repository](https://github.com/bharadwajpp/Ev-agentic-ai)
 
 ### Multilingual Fact-Checking System
 Fine-tuned MuRIL on 3,277 Hindi/Hinglish news articles for fake news classification (76.4% accuracy). Built an automated pipeline using LLM-based translation, FAISS retrieval, and NLI for health claim verification — optimized to run inference on an 8GB GPU via sequential model loading.
 
 `Python` `Transformers` `FAISS` `NLI`
-[→ Repository](https://github.com/YOUR_USERNAME/Fact-check-ai)
+[→ Repository](https://github.com/bharadwajpp/Fact-check-ai)
 
 ### Reinforcement Learning for 3D Navigation
 Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy exploration. Outperformed baseline navigation success rate; evaluated across multiple reward structures and transition dynamics.
 
 `Python` `Pandas` `NumPy`
-[→ Repository](https://github.com/YOUR_USERNAME/3D_Gridworld_Reinforcement_Learning)
+[→ Repository](https://github.com/bharadwajpp/3D_Gridworld_Reinforcement_Learning)
 
 <br>
 
@@ -70,12 +70,12 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 ## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bharadwajpp&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bharadwajpp&theme=default&hide_border=true" width="49%" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal&hide_border=true" width="98%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharadwajpp&theme=minimal&hide_border=true" width="98%" alt="Contribution Graph"/>
 </div>
 
 <br>

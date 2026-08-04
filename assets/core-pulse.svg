@@ -1,0 +1,14 @@
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="70" cy="70" r="20" fill="none" stroke="#00F7FF" stroke-width="2" opacity="0.9"/>
+  <circle cx="70" cy="70" r="20" fill="none" stroke="#00F7FF" stroke-width="2">
+    <animate attributeName="r" values="20;60;20" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70" cy="70" r="20" fill="none" stroke="#009DFF" stroke-width="2">
+    <animate attributeName="r" values="20;60;20" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="2.5s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70" cy="70" r="10" fill="#00F7FF">
+    <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>

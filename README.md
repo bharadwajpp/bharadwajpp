@@ -4,7 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=PRATYUSH+ANAND;COMPUTER+SCIENCE+%C2%B7+BITS+PILANI" alt="Name"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=600&color=009DFF&center=true&vCenter=true&width=650&lines=%3E+backend+engineering;%3E+applied+machine+learning;%3E+retrieval-augmented+systems;%3E+status%3A+online" alt="Boot"/>
+<br>
+
+<img src="assets/loading-bar.svg" width="500"/>
 
 <br>
 
@@ -20,10 +22,6 @@
 
 <br>
 
-<div align="center">
-<img src="assets/divider.png" width="500"/>
-</div>
-
 ## `//` About
 
 I build backend systems for AI pipelines — retrieval, diagnostics, and the infrastructure that makes LLMs useful in production rather than just impressive in a demo.
@@ -33,10 +31,6 @@ Last summer I worked on a generative AI pipeline at FourKites that automated com
 I care more about whether a system holds up under real constraints — memory limits, noisy data, ambiguous retrieval — than whether the demo looks good.
 
 <br>
-
-<div align="center">
-<img src="assets/divider.png" width="500"/>
-</div>
 
 ## `//` Experience
 
@@ -59,10 +53,6 @@ Built backend services for a generative AI pipeline that automated commercial in
 </table>
 
 <br>
-
-<div align="center">
-<img src="assets/divider.png" width="500"/>
-</div>
 
 ## `//` Projects
 
@@ -114,10 +104,6 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 
 <br>
 
-<div align="center">
-<img src="assets/divider.png" width="500"/>
-</div>
-
 ## `//` Stack
 
 <div align="center">
@@ -137,10 +123,6 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 
 <br>
 
-<div align="center">
-<img src="assets/divider.png" width="500"/>
-</div>
-
 ## `//` System Stats
 
 <div align="center">
@@ -153,10 +135,6 @@ Q-learning agent for navigation in a stochastic 3D Gridworld, using ε-greedy ex
 </div>
 
 <br>
-
-<div align="center">
-<img src="assets/divider.png" width="500"/>
-</div>
 
 <div align="center">
 
